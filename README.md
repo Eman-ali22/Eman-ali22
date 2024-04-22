@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Eman Ali</h1>
-<h3 align="center">Undergraduate student(BSCS), Frontend developer.</h3>
+<h1 align="center">Hy there!👋 </h1>
+<h3 align="left"> I'm Eman Ali, Undergraduate student(BSCS).</h3>
 <img align="right"alt="coding" width="400"src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306116700/original/a5484bfc626b788fd0588986c6bb9118c395389c/do-animation-gif-for-social-media-and-ads.png">
 
-- Creating project using HTMLL,CSS,Java Scritp.
-
-- website. [portfoilo.](file:///C:/Users/Intag/Desktop/prtflo%20projects/portfolio.html)
+  Skills:
+- HTML/CSS 🎨
+- JavaScript 🚀
+- Responsive Design 📱
 
 - 📫 How to reach me **ea6869835@gmail.com**
 
