@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ea6869835@gmail.com**
 
-- ⚡ Fun fact **i am funny hunny bunny.**
+- ⚡ Fun fact **i am Funny Honey Bunny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
