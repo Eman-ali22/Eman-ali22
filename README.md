@@ -4,24 +4,24 @@
 
   ## Skills
 
-⭐ HTML/CSS 🎨
-⭐ JavaScript 🚀
-⭐ Responsive Design 📱
-⭐ jQuery ✨
-⭐ Bootstrap 💼
-⭐ GitHub 🛠️
-⭐ PHP 🐘
-⭐ SQL 🗄️
-⭐ Node.js ⚙️
-⭐ Python 🐍
-⭐ TensorFlow 🔢
-⭐ Scikit‑Learn 📊
-⭐ Pandas 🧾
-⭐ NumPy 🔣
-⭐ Machine Learning 🤖
-⭐ Deep Learning 🧬
-⭐ Data Visualization 📉
-⭐ API Development 🔗
+ HTML/CSS 🎨
+ JavaScript 🚀
+Responsive Design 📱
+ jQuery ✨
+ Bootstrap 💼
+ GitHub 🛠️
+ PHP 🐘
+ SQL 🗄️
+ Node.js ⚙️
+ Python 🐍
+ TensorFlow 🔢
+ Scikit‑Learn 📊
+ Pandas 🧾
+ NumPy 🔣
+ Machine Learning 🤖
+ Deep Learning 🧬
+ Data Visualization 📉
+ API Development 🔗
 
 
 <h3 align="left">Connect with me:</h3>
