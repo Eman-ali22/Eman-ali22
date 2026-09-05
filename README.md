@@ -1,8 +1,5 @@
 <h1 align="center">Hy there!👋 </h1>
 <h3 align="left"> I'm Eman Ali, A passionate developer and ML engineer.</h3>
-<img align="right" alt="AI & ML student" width="400" style="margin-top:90px;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
-
-
 
   ## Skills
 
@@ -24,7 +21,7 @@ Responsive Design 📱
  Deep Learning 🧬
  Data Visualization 📉
  API Development 🔗
-
+<img align="right" alt="AI & ML student" width="400" style="margin-top:90px;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
 
 <h3 align="left">Connect with me:</h3>
 
