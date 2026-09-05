@@ -1,6 +1,6 @@
 <h1 align="center">Hy there!👋 </h1>
 <h3 align="left"> I'm Eman Ali, A passionate developer and ML engineer.</h3>
-<img align="right"alt="coding" width="400"src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/306116700/original/a5484bfc626b788fd0588986c6bb9118c395389c/do-animation-gif-for-social-media-and-ads.png">
+<img align="right" alt="AI & ML student" width="400" style="margin-top: 40px;" src="https://cdn.dribbble.com/users/926537/screenshots/17518830/media/590774118f6c016fa8a07b2c7e8e2f69.gif" />
 
   ## Skills
 
