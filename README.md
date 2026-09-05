@@ -1,26 +1,31 @@
 <h1 align="center">Hy there!👋 </h1>
 <h3 align="left"> I'm Eman Ali, A passionate developer and ML engineer.</h3>
-<img align="right" alt="AI & ML student" width="400" style="margin-top:120px;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
 
-  <h2> Skills </h2>
- HTML/CSS 🎨
- JavaScript 🚀
-Responsive Design 📱
- jQuery ✨
- Bootstrap 💼
- GitHub 🛠️
- PHP 🐘
- SQL 🗄️
- Node.js ⚙️
- Python 🐍
- TensorFlow 🔢
- Scikit‑Learn 📊
- Pandas 🧾
- NumPy 🔣
- Machine Learning 🤖
- Deep Learning 🧬
- Data Visualization 📉
- API Development 🔗
+<h2>Skills</h2>
+
+<div style="display:flex; align-items:center; justify-content:space-between;">
+    HTML/CSS 🎨  
+    JavaScript 🚀  
+    Responsive Design 📱  
+    jQuery ✨<br>
+    Bootstrap 💼  
+    GitHub 🛠️  
+    PHP 🐘  
+    SQL 🗄️  
+    Node.js ⚙️  
+    Python 🐍<br>
+    TensorFlow 🔢  
+    Scikit‑Learn 📊  
+    Pandas 🧾  
+    NumPy 🔣  
+    Machine Learning 🤖<br>
+    Deep Learning 🧬  
+    Data Visualization 📉  
+    API Development 🔗
+<img align="right" alt="AI & ML student" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
+  </div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 
