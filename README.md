@@ -56,5 +56,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eman-ali22&theme=radical&hide_border=true" width="450" alt="GitHub Streak"/>
 
 
+![Snake animation](https://github.com/Eman-ali22/Eman-ali22/blob/output/snake.svg)
 
 
