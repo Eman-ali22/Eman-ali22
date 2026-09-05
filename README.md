@@ -46,8 +46,6 @@ Responsive Design 📱
 <!-- 🔥 Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eman-ali22&theme=radical&hide_border=true" width="450" alt="GitHub Streak"/>
 
-<!-- 📈 Overall Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=eman-ali22&show_icons=true&theme=radical&hide_border=true" width="450" alt="GitHub Stats"/>
 
 
 
