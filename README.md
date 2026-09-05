@@ -29,9 +29,12 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 How to reach me **ea6869835@gmail.com**
-- Kaggle **https://www.kaggle.com/emanali777**
+- 📫 How to reach me: **ea6869835@gmail.com**
+- 🌐 Live Portfolio: [eman-portfolio-vercel.vercel.app](https://eman-portfolio-vercel.vercel.app)
+- Github: **https://github.com/Eman-ali22**
+- Kaggle: **https://www.kaggle.com/emanali777**
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eman-ali-08122b304/)
+  **https://www.linkedin.com/in/emanali123/**
 
 
 
