@@ -54,13 +54,3 @@ Responsive Design 📱
 
 </div>
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=eman-ali22&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eman-ali22&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
